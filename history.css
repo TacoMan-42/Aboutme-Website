@@ -1,0 +1,47 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Comfortaa:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Boldonse&family=Comfortaa:wght@300..700&display=swap');
+/* CSS Document */
+body {
+	background-image: url(https://t3.ftcdn.net/jpg/02/99/83/66/360_F_299836672_LcyxCDANK4C58SFuxnnPygNMJqoQIpbT.jpg);
+	background-size:cover;
+	text-align:center;
+}
+h1 {
+	color:white;
+	font-family: arvo;
+	font-size:55px;
+	Border-bottom:10px solid white;
+	font-weight:bold;
+}
+img {
+	width:30%;
+}
+h2 {
+	color:#FF797B;
+	font-family: arvo;
+	text-decoration: underline;
+	font-size:30px;
+}
+p {
+	margin-bottom: 50px;
+}
+a {
+	text-decoration: none;
+	color:lightseagreen;
+	font-size:20px;
+	font-family:comfortaa;
+}
+a:hover {
+	color:lightgreen;
+	text-decoration: underline;
+}
+p {
+	font-family:comfortaa;
+	color:white;
+	font-size:19px;
+}
+.home {
+	font-size: 30px
+}
